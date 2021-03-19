@@ -12,6 +12,7 @@ public class Equal {
 		String d = s.next();
 		boolean c = r.equals(d);
 		System.out.println(c);
+		System.out.println("heloo changes done");
 		
 		
 	}
